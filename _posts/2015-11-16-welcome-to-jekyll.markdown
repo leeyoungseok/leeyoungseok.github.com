@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "깃허브 블로시작하기"
 date:   2015-11-16 21:01:25 +0900
 categories: jekyll update
 ---
