@@ -23,7 +23,7 @@ last_modified_at: 2021-12-19
   - <https://github.com/leeyoungseok/2022-under-project-codingtest>
 
 *   __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발 
-  - <https://github.com/leeyoungseok/2022-under-project-kube>
+  - [github](https://github.com/leeyoungseok/2022-under-project-kube)
 
 * * *
 
