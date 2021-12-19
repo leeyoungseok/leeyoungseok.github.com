@@ -14,7 +14,7 @@ date: 2021-12-19
 last_modified_at: 2021-12-19
 ---
 
-###### 4학년 졸업프로젝트 소개입니다. 
+###### 4학년 졸업프로젝트 
 
 * 개인정보보호를 할 수 있는 __분산 딥러닝__ 기술, __연합학습__, 이용 응용 개발
   - <https://github.com/leeyoungseok/2022-under-project-fl>
@@ -22,11 +22,11 @@ last_modified_at: 2021-12-19
 * 코딩테스트 오픈소스SW __DMOJ__ 를 이용한 실습 도구 기능 추가
   - <https://github.com/leeyoungseok/2022-under-project-codingtest>
 
-*  __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발
+*   __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발
   - <https://github.com/leeyoungseok/2022-under-project-kube>
 
 
-######  2, 3학년에게 추천할 주제는 아래와 같습니다. 
+######  2, 3학년 추천 주제
 
 * 코딩테스트 플랫폼 __DMOJ__ 오픈소스 SW 기여
   - 실습 활용을 위한 __실시간 코딩 화면 공유 및 채팅__ 기능 추가
