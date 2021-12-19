@@ -5,13 +5,13 @@ excerpt: "4학년 프로젝트 주제소개입니다. 핵심 키워드는 연합
 categories:
   - [Blog]
 tags:
-  - [Blog, jekyll, Github, Git]
+  - [Federated Learning, Coding Test, Kubernetes, DMOJ]
 
 toc: true
 toc_sticky: true
  
-date: 2021-12-05
-last_modified_at: 2021-12-05
+date: 2021-12-19
+last_modified_at: 2021-12-19
 ---
 
 4학년 졸업프로젝트 소개입니다.
