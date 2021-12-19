@@ -19,16 +19,18 @@ last_modified_at: 2021-12-19
 1. 프로젝트1: 개인정보보호를 할 수 있는 __분산 딥러닝__ 기술, __연합학습__, 이용 응용 개발
   * <https://github.com/leeyoungseok/2022-under-project-fl>
 
-2. 프로젝트2: 코딩테스트 오픈소스SW `DMOJ`를 이용한 실습 도구 기능 추가
-  * [Github URL](https://github.com/leeyoungseok/2022-under-project-codingtest) 
+2. 프로젝트2: 코딩테스트 오픈소스SW __DMOJ__ 를 이용한 실습 도구 기능 추가
+  * <https://github.com/leeyoungseok/2022-under-project-codingtest>
 
-3. 프로젝트3: `쿠버네티스`를 이용한 Private Google Colab 웹 서비스 개발
-  * [Github URL](https://github.com/leeyoungseok/2022-under-project-kube) 
+3. 프로젝트3: __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발
+  * <https://github.com/leeyoungseok/2022-under-project-kube>
 
 
 *** 
 
-# 2, 3학년에게 추천할 주제는 아래와 같습니다. 
+::: tip
+ 2, 3학년에게 추천할 주제는 아래와 같습니다. 
+:::
 
 1. 코딩테스트 플랫폼 DMOJ 오픈소스 SW 기여
   * 실습 활용을 위한 실시간 코딩 화면 공유 및 채팅 기능 추가
