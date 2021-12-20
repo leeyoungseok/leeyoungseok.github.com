@@ -1,6 +1,6 @@
 ---
 title: "이 블로그 설명서"
-permalink: /pages/about/
+permalink: /about/
 toc_sticky: true
 toc_ads : true
 layout: single
