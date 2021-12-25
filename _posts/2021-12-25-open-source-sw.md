@@ -1,5 +1,5 @@
 ---
-title:  "[졸업/미니프로젝트] 연합학습, Coding Test, Kubernetes"
+title:  "[Docker 라우터] 도커 라우터 설정 연습해봅시다. "
 excerpt: "4/3/2학년 프로젝트 주제소개입니다. 핵심 키워드는 연합학습, 코딩테스트, 쿠버네티스, 도커, 공개SW 입니다. "
 
 categories:
@@ -53,13 +53,5 @@ last_modified_at: 2021-12-19
 * 소리(18KHz) 통신(마이크, 스피커)으로 데이터 전송 앱 만들기
   {% include youtube-sound.html id="uP4WHhDmcF0" %}
 
-* 메타버스 오픈소스SW (버카디아: Vircadia) 호스팅 서버 구축 및 컨텐츠 개발하기
-  - [Vircadia](https://github.com/vircadia/vircadia)
-
-* 메타버스 오픈소스SW (Mozilla Hub) 호스팅 서버 구축 및 컨텐츠 개발하기
-  - [Mozilla Hub](https://hubs.mozilla.com/docs/hubs-cloud-intro.html)
-
-* Google Arts & Clulter 클론 웹/앱 (충남대 컨텐츠) 만들기 
-  - [Google Arts & Culter](https://artsandculture.google)
 
 > 자세한 내용에 대해서는 이영석 교수와 상담해보세요.
