@@ -60,6 +60,6 @@ last_modified_at: 2021-12-19
   - [Mozilla Hub](https://hubs.mozilla.com/docs/hubs-cloud-intro.html)
 
 * Google Arts & Clulter 클론 웹/앱 (충남대 컨텐츠) 만들기 
-  - [Google Arts & Culter](https://artsandculture.google)
+  - [Google Arts & Culter](https://artsandculture.google.com)
 
 > 자세한 내용에 대해서는 이영석 교수와 상담해보세요.
