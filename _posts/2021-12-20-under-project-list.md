@@ -30,17 +30,16 @@ last_modified_at: 2021-12-19
 
 ######  2, 3학년 추천 주제
 
-* Mobile App 테스팅 로봇
+* Mobile App 테스팅 로봇: 아래 연구실 석사 졸업생 결과물 개선 필요
   {% include youtube-mobileapptest.html id="kmcGr-f9bZY" %}  
 
 * 코딩테스트 플랫폼 __DMOJ__ 오픈소스 SW 기여
   - 실습 활용을 위한 __실시간 코딩 화면 공유 및 채팅__ 기능 추가
   - 참고: [YouTube](https://youtu.be/GYiM7HGzs80)
-  - 참고: [YouTube]https://youtu.be/k4yMkCh1LbM
 
 * 대학생을 위한 튜터링 __매칭 웹__ 사이트 만들기
   - 교과목, 숙제, 프로젝트 등에 대한 질의 응답을 수행하기 위한 온라인 매칭 사이트 
-  - 참고: https://youtu.be/8cyVbeAVl0k
+  {% include youtube-matching.html id="8cyVbeAVl0k" %}
 
 * 충남대학교 __식당 메뉴 추천__ 웹 또는 앱 만들기
   - 학교 식당 메뉴의 인기도 데이터 수집 분석 및 개인별 추천 서비스
