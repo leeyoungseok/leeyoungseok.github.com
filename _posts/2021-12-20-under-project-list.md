@@ -47,8 +47,9 @@ last_modified_at: 2021-12-19
 * __Roblox__ 게임의 AI 캐릭터 __Tensorflow__ 로 만들기
   - 게임 내 사용자들과 대화하는 캐릭터
 
-* Github 프로젝트 포탈 만들기
-  - 검색, 포탈, 기관별 프로젝트 관리(참고: 카카오의 올리브)
+* 오픈소스 프로젝트 (Github) 포탈 만들기
+  - 검색, 포탈, 기관별 프로젝트 관리
+  - 참고: LG 전자 [FOSSLight](https://fosslight.org/fosslight-guide/) , 카카오의 올리브
 
 * 소리(18KHz) 통신(마이크, 스피커)으로 데이터 전송 앱 만들기
   {% include youtube-sound.html id="uP4WHhDmcF0" %}
