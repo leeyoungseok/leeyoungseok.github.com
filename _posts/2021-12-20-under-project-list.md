@@ -30,13 +30,13 @@ last_modified_at: 2021-12-19
 
 ######  2, 3학년 추천 주제
 
-* Mobile App 테스팅 로봇: 아래 연구실 석사 졸업생 결과물 개선 필요
+* Mobile App 테스팅 로봇: 연구실 석사 졸업생 결과물 개선 필요(아래 참고)
   {% include youtube-mobileapptest.html id="kmcGr-f9bZY" %}  
 
-* 코딩테스트 플랫폼 __DMOJ__ 오픈소스 SW 기여: __실시간 코딩 화면 공유 및 채팅__ 기능 추가
+* 코딩테스트 플랫폼 __DMOJ__ 오픈소스 SW 기여: __실시간 코딩 화면 공유 및 채팅__ 기능 추가 (아래 참고)
   {% include youtube-dmoj.html id="GYiM7HGzs80" %}
 
-* 대학생을 위한 튜터링 __매칭 웹/앱__ 만들기: 교과목, 숙제, 프로젝트 등에 대한 질의 응답을 수행하기 위한 온라인 매칭 웹/앱 만들기
+* 대학생을 위한 튜터링 __매칭 웹/앱__ 만들기: 교과목, 숙제, 프로젝트 등에 대한 질의 응답을 수행하기 위한 온라인 매칭 웹/앱 만들기 (아래 알고리즘 참고)
   {% include youtube-matching.html id="8cyVbeAVl0k" %}
 
 * 충남대학교 __식당 메뉴 추천__ 웹 또는 앱 만들기
@@ -51,7 +51,7 @@ last_modified_at: 2021-12-19
   - 검색, 포탈, 기관별 프로젝트 관리(참고: 카카오의 올리브)
 
 * 소리(18KHz) 통신(마이크, 스피커)으로 데이터 전송 앱 만들기
-  - 참고: https://youtu.be/uP4WHhDmcF0
+  {% include youtube-sound.html id="uP4WHhDmcF0" %}
 
 
 > 자세한 내용에 대해서는 이영석 교수와 상담해보세요.
