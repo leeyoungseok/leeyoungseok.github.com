@@ -31,7 +31,7 @@ last_modified_at: 2021-12-19
 ######  2, 3학년 추천 주제
 
 * Mobile App 테스팅 로봇
-  -  참고: [![Video Label](http://img.youtube.com/vi/https://youtu.be/kmcGr-f9bZY/0.jpg)](https://youtu.be/kmcGr-f9bZY)
+  -  참고: [![Video Label](http://img.youtube.com/vi/kmcGr-f9bZY/0.jpg)](https://youtu.be/kmcGr-f9bZY)
 
 * 코딩테스트 플랫폼 __DMOJ__ 오픈소스 SW 기여
   - 실습 활용을 위한 __실시간 코딩 화면 공유 및 채팅__ 기능 추가
