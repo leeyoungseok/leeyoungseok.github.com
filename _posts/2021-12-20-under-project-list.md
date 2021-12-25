@@ -34,7 +34,7 @@ last_modified_at: 2021-12-19
   {% include youtube-mobileapptest.html id="kmcGr-f9bZY" %}  
 
 * 코딩테스트 플랫폼 __DMOJ__ 오픈소스 SW 기여: __실시간 코딩 화면 공유 및 채팅__ 기능 추가
-  {% include youtube-mobileapptest.html id="GYiM7HGzs80" %}
+  {% include youtube-dmoj.html id="GYiM7HGzs80" %}
 
 * 대학생을 위한 튜터링 __매칭 웹/앱__ 만들기: 교과목, 숙제, 프로젝트 등에 대한 질의 응답을 수행하기 위한 온라인 매칭 웹/앱 만들기
   {% include youtube-matching.html id="8cyVbeAVl0k" %}
