@@ -24,6 +24,9 @@ last_modified_at: 2021-12-26
 * Kaggle에서 샘플 분석 코드 학습하기
   - [Kaggle Python Code](https://www.kaggle.com/youngseok/notebooke51535b60e)
 
+* Sample YouTube
+{% include youtube-tashu.html id="9-3bHyT8jow" %}  
+
 <hr>
 
 * * *
