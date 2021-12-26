@@ -28,7 +28,7 @@ last_modified_at: 2021-12-19
 
 * * *
 
-######  2, 3학년 추천 주제
+######  2, 3, 4학년 추천 (졸업/주니어) 프로젝트 주제
 
 * Mobile App 테스팅 로봇: 연구실 석사 졸업생 결과물 개선 필요(아래 참고)
   {% include youtube-mobileapptest.html id="kmcGr-f9bZY" %}  
