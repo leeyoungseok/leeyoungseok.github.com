@@ -3,7 +3,7 @@ title:  "[졸업/미니프로젝트] 연합학습, Coding Test, Kubernetes"
 excerpt: "4/3/2학년 프로젝트 주제소개입니다. 핵심 키워드는 연합학습, 코딩테스트, 쿠버네티스, 도커, 공개SW 입니다. "
 
 categories:
-  - [Blog]
+  - Project
 tags:
   - [Federated Learning, Coding Test, Kubernetes, DMOJ]
 
