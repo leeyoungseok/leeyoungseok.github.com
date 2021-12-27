@@ -3,7 +3,7 @@ title:  "[공개데이터] 대전 타슈 데이터 분석하기"
 excerpt: "대전 공유자전거(타슈) 대여 이력 데이터 분석하기 "
 
 categories:
-  - [Blog]
+  - Project
 tags:
   - [공유자전거, Python, Kaggle, 타슈]
 
