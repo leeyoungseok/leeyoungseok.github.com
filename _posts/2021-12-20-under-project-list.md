@@ -60,7 +60,7 @@ last_modified_at: 2021-12-19
 * 메타버스 오픈소스SW (Mozilla Hub) 호스팅 서버 구축 및 컨텐츠 개발하기
   - [Mozilla Hub](https://hubs.mozilla.com/docs/hubs-cloud-intro.html)
 
-* Google Arts & Clulter 클론 웹/앱 (충남대 컨텐츠) 만들기 
-  - [Google Arts & Culter](https://artsandculture.google.com)
+* Google Arts & Culture 클론 웹/앱 (충남대 컨텐츠) 만들기 
+  - [Google Arts & Culture](https://artsandculture.google.com)
 
 > 자세한 내용에 대해서는 이영석 교수와 상담해보세요.
