@@ -1,5 +1,5 @@
 ---
-title:  "[졸업/미니프로젝트] 연합학습, Coding Test, Kubernetes"
+title:  "[졸업/미니프로젝트] 연합학습, Coding Test, Kubernetes 등"
 excerpt: "4/3/2학년 프로젝트 주제소개입니다. 핵심 키워드는 연합학습, 코딩테스트, 쿠버네티스, 도커, 공개SW 입니다. "
 
 categories:
@@ -22,16 +22,17 @@ last_modified_at: 2021-12-19
 * 코딩테스트 오픈소스SW __DMOJ__ 를 이용한 실습 도구 기능 추가
   - <https://github.com/leeyoungseok/2022-under-project-codingtest>
 
-*   __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발
+* __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발
   - <https://github.com/leeyoungseok/2022-under-project-kube>
 
 * __LG전자 FOSSLight__ 오픈소스 프로젝트 관리도구 기여하기
   - <https://github.com/leeyoungseok/2022-under-project-fosslight>
+
 <hr>
 
 * * *
 
-######  2, 3, 4학년 추천 (졸업/주니어) 프로젝트 주제
+######  2, 3, 4학년 추천 (졸업/미니) 프로젝트 주제
 
 * Mobile App 테스팅 로봇: 연구실 석사 졸업생 결과물 개선 필요(아래 참고)
   {% include youtube-mobileapptest.html id="kmcGr-f9bZY" %}  
