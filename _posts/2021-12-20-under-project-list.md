@@ -22,7 +22,8 @@ last_modified_at: 2021-12-19
 * 코딩테스트 오픈소스SW __DMOJ__ 를 이용한 실습 도구 기능 추가
   - <https://github.com/leeyoungseok/2022-under-project-codingtest>
 
-*   __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발: [github](https://github.com/leeyoungseok/2022-under-project-kube)
+*   __쿠버네티스__ 를 이용한 __Private Google Colab__ 웹 서비스 개발 
+  - <https://github.com/leeyoungseok/2022-under-project-kube>
 
 * __LG전자 FOSSLight__ 오픈소스 프로젝트 관리도구 기여하기
   - <https://github.com/leeyoungseok/2022-under-project-fosslight>
