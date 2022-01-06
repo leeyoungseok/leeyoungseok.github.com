@@ -3,7 +3,7 @@ title:  "[웹 크롤러와 TTS] 노래 가사 크롤링해서 mp3 만들기"
 excerpt: "네이버의 노래 가사 크롤링해서 TTS로 mp3 파일 만들기"
 
 categories:
-  - [Blog]
+  - Project
 tags:
   - [web crawling, Python, naver, lyric, gtts, mp3]
 
